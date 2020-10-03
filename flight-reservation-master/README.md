@@ -38,7 +38,7 @@ Designed front end templates using thymeleaf and styled them using Bootstrap and
 
 Used bower.js to install jquery and bootstrap dependencies.
 
-Created Integration layer(REST API) for flight checkin microservice to check in passengers with reservations Avaialble at https://github.com/2020-10732f-c2-TannourySamer
+Created Integration layer(REST API) for flight checkin microservice to check in passengers with reservations avaialble at https://github.com/2020-10732f-c2-TannourySamer
 
 ## Technologies
 Backend:

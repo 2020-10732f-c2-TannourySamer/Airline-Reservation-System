@@ -1,0 +1,10 @@
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\FlightcheckinApplication.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\integration\dto\AbstractEntity.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\integration\ReservationRestClientImpl.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\integration\dto\Reservation.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\integration\dto\Flight.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\integration\dto\Passenger.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\integration\ReservationRestClient.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\controllers\CheckInController.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\integration\dto\ReservationUpdateRequest.java
+C:\C2\flight-reservation-master\flight-checkin-master\src\main\java\com\flightcheckin\flightcheckin\exceptions\ReservationNotFound.java

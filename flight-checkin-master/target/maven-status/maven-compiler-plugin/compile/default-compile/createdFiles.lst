@@ -1,0 +1,10 @@
+com\flightcheckin\flightcheckin\integration\dto\Reservation.class
+com\flightcheckin\flightcheckin\controllers\CheckInController.class
+com\flightcheckin\flightcheckin\integration\dto\AbstractEntity.class
+com\flightcheckin\flightcheckin\FlightcheckinApplication.class
+com\flightcheckin\flightcheckin\integration\ReservationRestClientImpl.class
+com\flightcheckin\flightcheckin\integration\dto\Passenger.class
+com\flightcheckin\flightcheckin\exceptions\ReservationNotFound.class
+com\flightcheckin\flightcheckin\integration\dto\Flight.class
+com\flightcheckin\flightcheckin\integration\ReservationRestClient.class
+com\flightcheckin\flightcheckin\integration\dto\ReservationUpdateRequest.class

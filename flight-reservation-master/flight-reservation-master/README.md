@@ -29,32 +29,51 @@ Payment Gateways.
 
 ## How it was built 
 Created a web application where logged in users as well as search and book flights.
+
 Added feature to register new users and implement login.
+
 Used Spring Data JPA(hibernate) as an ORM to interact with the MYSQL database.
+
 Designed front end templates using thymeleaf and styled them using Bootstrap and Css.
+
 Used bower.js to install jquery and bootstrap dependencies.
+
 Created Integration layer(REST API) for flight checkin microservice to check in passengers with reservations.
 
 ## Technologies
 Backend:
+
 Java
+
 Spring Boot
+
 REST
+
 Microservices
+
 JPA
+
 thymeleaf
+
 HTML 5
+
 CSS 3
+
 Bootstrap 4
 
 ## Database Model
 There are 6 tables (scripts available in resourses folder)
 
 FLIGHT
+
 RESERVATION
+
 USER
+
 PASSENGER
+
 User_Role
+
 Role
 
 There is one to one mapping assumed between reservation and passenger as well as reservation and flight.
